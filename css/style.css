@@ -1,20 +1,26 @@
 
         p {
-            color: white;
+            color: black;
             font-size: 40px;
         }
         
         h1 {
-            color: white;
+            color: black;
             font-size: 72px;
+            font-family:Swanky and Moo Moo;
         }
         
-        p2 {
-            color: white;
+        p {
+            color: black;
             font-size: 40px;
+            font-family:Swanky and Moo Moo;
         }
         
         .Andy {
             background-color: black;
         }
-        body {background-color: black;}
+        body {
+            /*background-color: black;*/
+            background-image: url("http://livelovelaughlifestyle.com/wp-content/uploads/2016/02/Activated-carbon-powder-mound-000014241162_Full.jpg");
+        }
+        
