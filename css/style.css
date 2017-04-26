@@ -1,3 +1,4 @@
+ 
  h1 {
             color: black;
             font-size: 70px;
@@ -22,6 +23,9 @@
             font-family:Swanky and Moo Moo;
         }
          p2 {
-            color: red;
+            color: black;
             font-size: 26px;
-            font-family: 'Eagle Lake', cursive;
+            font-family: Swanky and Moo Moo;
+            p3 {
+                color: gray;
+            }
