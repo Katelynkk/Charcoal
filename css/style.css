@@ -1,13 +1,12 @@
-
-        h1 {
+ h1 {
             color: black;
-            font-size: 36px;
+            font-size: 70px;
             font-family:Swanky and Moo Moo;
         }
         
         p {
             color: black;
-            font-size: 16px;
+            font-size: 26px;
             font-family:Swanky and Moo Moo;
         }
         
@@ -26,4 +25,3 @@
             color: black;
             font-size: 26px;
             font-family: 'Eagle Lake', cursive;
-            
